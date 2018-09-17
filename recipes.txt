@@ -5,6 +5,8 @@ chicken
 mutton
 noodles
 pasta
+beans
+pizza
 
 
 
